@@ -1,7 +1,4 @@
-package ProjekAKHIR;
-
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 class Transaction {
     private String description;
